@@ -1,5 +1,4 @@
 # BullsAndCows
-This full web-based program using Spring MVC allows a user to access a database of Power Ranger seasons and modify it as the user pleases.
 
 ### Technologies Used
 • Python
